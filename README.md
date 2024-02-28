@@ -1,1 +1,1 @@
-## Deep RL Algorithms!
+## Policy Gradient Algorithms!
